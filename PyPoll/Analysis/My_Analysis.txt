@@ -1,0 +1,10 @@
+     Election Results:
+------------------------------
+Khan:  63.0%  with 2218231 votes 
+ Correy:  20.0%  with 704200 votes 
+ Li:  14.0%  with 492940 votes 
+ O'Tooley:  3.0%  with 105630 votes 
+ ---------------------------------------------
+                 
+    That means that the winner is Khan
+---------------------------------------------
