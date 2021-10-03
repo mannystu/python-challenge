@@ -1,0 +1,6 @@
+     Below is my analysis:
+------------------------------ Da data set be having 86 rows yall 
+ Da total be:  38382578
+ Dis be da biggest gain: Feb-2012 1926159
+ Dis be da biggest loss: Sep-2013 -2196167
+ Dis be da average monthly change:  -2315.12
